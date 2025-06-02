@@ -1,0 +1,47 @@
+C 0 0 H
+T 2 0 V
+B 1 1 V
+R 2 3 H
+S 5 5 V
+D 7 2 H
+A 6 6 H
+
+C 0 2 V
+T 0 0 V 
+B 2 4 H
+R 5 3 V
+S 3 7 V 
+D 7 5 H
+A 4 6 V
+
+C 1 0 H
+T 0 3 H
+B 3 2 V
+R 4 4 H
+S 5 5 V
+D 6 6 H
+A 7 1 H
+
+C 0 1 H
+T 2 0 V
+B 1 0 H
+R 6 2 H
+S 3 4 V
+D 7 4 H
+A 5 7 V
+
+C 0 3 H
+T 3 0 V
+B 2 2 V
+R 0 1 V
+S 5 1 V
+D 4 4 H
+A 1 7 V
+
+C 1 2 V
+T 0 1 H
+B 0 5 V
+R 4 3 V
+S 6 5 H
+D 2 0 V
+A 3 7 V
