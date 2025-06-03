@@ -17,23 +17,38 @@ This is a complete Battleship game where you play against the computer. It featu
 
 
 📄 About comp_placements.txt
-This text file contains 6 different pre-set ship arrangements for the computer. Each block represents one complete setup. It gives the computer ready-to-use ship placements and ensures valid configurations.
+
+This text file contains 6 different pre-set ship arrangements for the computer. Each block represents one complete setup. 
+It gives the computer ready-to-use ship placements and ensures valid configurations.
 
 File Rules:
 
 6 blocks (separated by blank lines)
+
 7 ships per block (one for each ship type)
+
 Format for each line: [Symbol] [Row] [Col] [H/V]
+
   Symbols: C, T, B, R, S, D, A
+  
   Coordinates: 0-7 (8×8 grid)
+  
   H = Horizontal, V = Vertical
 
+
 Example
+
 C 0 0 H  ← 5-length Carrier at top-left, going right
+
 T 2 0 V  ← 4-length Tank below Carrier, going down
+
 B 1 1 V  ← 4-length Battleship, going down
+
 R 2 3 H  ← 3-length Cruiser in middle, going right
+
 S 5 5 V  ← 3-length Submarine near bottom-right, going down
+
 D 7 2 H  ← 2-length Destroyer at bottom, going right
+
 A 6 6 H  ← 2-length Boat near the corner, going right
 
