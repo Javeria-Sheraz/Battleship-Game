@@ -20,7 +20,7 @@ This text file contains 6 different pre-set ship arrangements for the computer. 
   - Coordinates: 0-7 (8×8 grid)
   - H = Horizontal, V = Vertical
 
-### Example Block:
+## Example Block:
 ```
 C 0 0 H  ← 5-length Carrier at top-left, going right
 T 2 0 V  ← 4-length Tank below Carrier, going down
