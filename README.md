@@ -11,8 +11,8 @@ This is a complete Battleship game where you play against the computer. It featu
   
   Colourful console display showing hits/misses
   
-  Proper ship placement validation
-  Turn-based gameplay until all ships are sunk
+  Proper ship placement validation and turn-based gameplay until all ships are sunk
+
 
 
 📄 About comp_placements.txt
