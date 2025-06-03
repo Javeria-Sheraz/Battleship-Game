@@ -35,7 +35,7 @@ Format for each line: [Symbol] [Row] [Col] [H/V]
   H = Horizontal, V = Vertical
 
 
-Example
+Example (of block):
 
 C 0 0 H  ← 5-length Carrier at top-left, going right
 
