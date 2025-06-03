@@ -1,12 +1,20 @@
 # Battleship-Game
 🚢 Battleship Game Overview
+
 What the Code Does:
+
 This is a complete Battleship game where you play against the computer. It features:
+
   An 8×8 grid for both player and the computer
+  
   7 types of ships with different lengths
+  
   Colourful console display showing hits/misses
+  
   Proper ship placement validation
+  
   Turn-based gameplay until all ships are sunk
+
 
 📄 About comp_placements.txt
 This text file contains 6 different pre-set ship arrangements for the computer. Each block represents one complete setup. It gives the computer ready-to-use ship placements and ensures valid configurations.
